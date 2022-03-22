@@ -11,11 +11,11 @@ $ pip -r requirements.txt
 $ python3 run_me.py moby-dick.txt
 ```
 Example Output (top 5 lines):
-> the sperm whale - 86
-of the whale - 78
-the white whale - 71
-one of the - 64
-of the sea - 57
+> the sperm whale - 86 \
+> of the whale - 78 \
+> the white whale - 71 \
+> one of the - 64 \
+> of the sea - 57
 
 ## Tests
 ### Manual Testing
@@ -26,11 +26,11 @@ $ pip -r requirements.txt
 $ python3 -m unittest test
 ```
 Example Output:
-> \.\.\.\.\.
-\----------------------------------------------------------------------
-Ran 5 tests in 0.919s
-\
-OK
+> \.\.\.\.\. \
+> ---------------------------------------------------------------------- \
+> Ran 5 tests in 0.919s \
+> \
+> OK
 
 ### Tests Covered
 1. Verify that 100 results are returned using stdin
