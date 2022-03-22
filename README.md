@@ -1,5 +1,7 @@
 # Three Word Sequence Seeker
 
+[![Build Status](https://api.travis-ci.com/bbilyeu/newrelic-cc.svg?branch=master)](https://app.travis-ci.com/github/bbilyeu/newrelic-cc)
+
 **Purpose**: Accept a file name(s), or content from stdin, and produce a list of the most common three-word sequence. 
 
 ## Usage
